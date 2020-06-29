@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jams-jmp/static/css/main.1f8d133e.chunk.css",
+    "main.js": "/jams-jmp/static/js/main.2ea9cea1.chunk.js",
+    "main.js.map": "/jams-jmp/static/js/main.2ea9cea1.chunk.js.map",
+    "runtime-main.js": "/jams-jmp/static/js/runtime-main.d6d26d5e.js",
+    "runtime-main.js.map": "/jams-jmp/static/js/runtime-main.d6d26d5e.js.map",
+    "static/js/2.7da80ee2.chunk.js": "/jams-jmp/static/js/2.7da80ee2.chunk.js",
+    "static/js/2.7da80ee2.chunk.js.map": "/jams-jmp/static/js/2.7da80ee2.chunk.js.map",
+    "index.html": "/jams-jmp/index.html",
+    "precache-manifest.6d6867f59f7cd72711506a6744cf2d63.js": "/jams-jmp/precache-manifest.6d6867f59f7cd72711506a6744cf2d63.js",
+    "service-worker.js": "/jams-jmp/service-worker.js",
+    "static/css/main.1f8d133e.chunk.css.map": "/jams-jmp/static/css/main.1f8d133e.chunk.css.map",
+    "static/js/2.7da80ee2.chunk.js.LICENSE.txt": "/jams-jmp/static/js/2.7da80ee2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jams-jmp/static/media/background_photo_desktop.37be7357.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6d26d5e.js",
+    "static/js/2.7da80ee2.chunk.js",
+    "static/css/main.1f8d133e.chunk.css",
+    "static/js/main.2ea9cea1.chunk.js"
+  ]
+}
